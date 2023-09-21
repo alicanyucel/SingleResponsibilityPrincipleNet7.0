@@ -1,0 +1,5 @@
+C:\Users\Alican\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.csproj.AssemblyReference.cache
+C:\Users\Alican\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alican\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\Alican\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\Alican\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
